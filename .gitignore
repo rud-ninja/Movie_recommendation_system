@@ -1,3 +1,5 @@
 __pycache__/
 move_rec/
-Recommendation_system.ipynb
+matrices/
+recommendation-system.ipynb
+test.py
